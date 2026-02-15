@@ -183,7 +183,7 @@ export default function App() {
                 </header>
 
                 <div className="flex-1 overflow-auto p-8 flex flex-col">
-                    <div className={`bg-white border-4 border-slate-800 overflow-hidden shadow-[6px_6px_0px_0px_rgba(30,41,59,1)] flex-1`}>
+                    <div className={`bg-white border-4 border-slate-800 overflow-x-auto shadow-[6px_6px_0px_0px_rgba(30,41,59,1)] flex-1`}>
                         <table className="w-full text-left border-collapse">
                             <thead className="bg-slate-50 border-b-4 border-slate-800">
                                 <tr className="text-xs uppercase font-bold tracking-widest text-slate-500">
